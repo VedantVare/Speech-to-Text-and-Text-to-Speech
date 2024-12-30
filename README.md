@@ -17,8 +17,8 @@ This is a simple Python program that provides two main functionalities:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/speech-assistant.git
-   cd speech-assistant
+   git clone https://github.com/VedantVare/Speech-to-Text and Text-to-speech.git
+   cd Speech-to-Text and Text-to-speech
    ```
 2. Install the required libraries:
    ```bash
